@@ -15,6 +15,5 @@ def output_array (arr)
 end
 
 def return_string_array (arr)
-  i = 0
-  while i < arr.length
+  
 end
